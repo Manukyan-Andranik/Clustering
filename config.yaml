@@ -1,0 +1,8 @@
+KMeans:
+    n_clusters: 3
+    init: random
+    max_iter: 40
+Spectral:
+    n_clusters: 3
+    gamma: 1.1
+    affinity: rbf
